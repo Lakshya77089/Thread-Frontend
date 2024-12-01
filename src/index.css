@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+}
+.login-link{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
